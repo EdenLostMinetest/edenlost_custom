@@ -12,7 +12,7 @@ minetest.register_alias("bamboo:sprout", "ethereal:bamboo_sprout")
 minetest.register_alias("paleotest:fossil_block", "default:stone")
 minetest.register_alias("paleotest:metasequoia_leaves", "moretrees:sequoia_leaves")
 minetest.register_alias("paleotest:metasequoia_tree", "moretrees:sequoia_trunk")
-minetest.register_alias("paleotest:metasequoia_wood", "moretrees:sequoia_wood")
+minetest.register_alias("paleotest:metasequoia_wood", "moretrees:sequoia_planks")
 minetest.register_alias("paleotest:fence_metasequoia", "default:fence_acacia_wood")
 
 -- Still need reasonable aliases for:
