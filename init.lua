@@ -14,6 +14,8 @@ minetest.register_alias("paleotest:metasequoia_leaves", "moretrees:sequoia_leave
 minetest.register_alias("paleotest:metasequoia_tree", "moretrees:sequoia_trunk")
 minetest.register_alias("paleotest:metasequoia_wood", "moretrees:sequoia_planks")
 minetest.register_alias("paleotest:fence_metasequoia", "default:fence_acacia_wood")
+minetest.register_alias("stairs:stair_metasequoia_wood", "stairs:stair_acacia_wood")
+
 
 -- Still need reasonable aliases for:
 -- paleotest:cycad_3
